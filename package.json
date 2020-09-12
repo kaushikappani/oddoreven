@@ -1,0 +1,22 @@
+{
+  "name": "oddoreven",
+  "version": "1.1.2",
+  "description": "NPM pakage to determine if a number is odd or even",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "odd",
+    "even",
+    "isodd",
+    "iseven",
+    "math",
+    "pickodd",
+    "pickeven",
+    "array",
+    "oddevenarray"
+  ],
+  "author": "Kaushik appani",
+  "license": "ISC"
+}
