@@ -1,11 +1,11 @@
-#NPM pakage to determine if a number is odd or even
-###Install with npm:
+# NPM pakage to determine if a number is odd or even
+### Install with npm:
 ```
 $ npm install --save oddoreven
 ```
 
 
-###Usage:
+### Usage:
 ```
 const oddeven = require('oddoreven');
 //isodd() and iseven() functions take integer as input and returns boolean
