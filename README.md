@@ -1,7 +1,7 @@
 # NPM pakage to determine if a number is odd or even
 ### Install with npm:
 ```
-$ npm install --save oddoreven
+$ npm install oddoreven
 ```
 
 
