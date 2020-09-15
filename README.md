@@ -1,7 +1,7 @@
 # NPM pakage to determine if a number is odd or even
 ![GitHub repo size](https://img.shields.io/github/repo-size/kaushikappani/oddoreven)
-![npm](https://img.shields.io/npm/v/oddoreven?logo=npm)
-![npm](https://img.shields.io/npm/dm/oddoreven?logo=npm)
+[![npm](https://img.shields.io/npm/v/oddoreven?logo=npm)](https://www.npmjs.com/package/oddoreven)
+[![npm](https://img.shields.io/npm/dm/oddoreven?logo=npm)](https://www.npmjs.com/package/oddoreven)
 ### Install with npm:
 ```
 $ npm install oddoreven
