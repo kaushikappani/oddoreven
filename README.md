@@ -6,8 +6,6 @@
 ```
 $ npm install oddoreven
 ```
-
-
 ### Usage:
 ```
 const oddeven = require('oddoreven');
