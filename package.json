@@ -2,7 +2,7 @@
   "name": "oddoreven",
   "version": "1.2.0",
   "description": "NPM pakage to determine if a number is odd or even",
-  "main": "app.js",
+  "main": "node app.js",
   "scripts": {
     "test": "node app.js"
   },
