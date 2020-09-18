@@ -4,7 +4,7 @@
   "description": "NPM pakage to determine if a number is odd or even",
   "main": "app.js",
   "scripts": {
-    "test": "app.js"
+    "test": "node app.js"
   },
   "keywords": [
     "odd",
