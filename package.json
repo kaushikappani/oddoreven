@@ -2,9 +2,9 @@
   "name": "oddoreven",
   "version": "1.2.0",
   "description": "NPM pakage to determine if a number is odd or even",
-  "main": "mocha",
+  "main": "app.js",
   "scripts": {
-    "test": "mocha"
+    "test": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -31,7 +31,5 @@
     "url": "https://github.com/kaushikappani/oddoreven/issues"
   },
   "homepage": "https://github.com/kaushikappani/oddoreven#readme",
-  "dependencies": {
-    "mocha": "^8.1.3"
-  }
+  "dependencies": {}
 }
