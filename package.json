@@ -1,10 +1,14 @@
 {
   "name": "oddoreven",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "NPM pakage to determine if a number is odd or even",
-  "main": "app.js",
+  "main": "mocha",
   "scripts": {
-    "test": "node app.js"
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaushikappani/oddoreven.git"
   },
   "keywords": [
     "odd",
@@ -15,8 +19,19 @@
     "pickodd",
     "pickeven",
     "array",
-    "oddevenarray"
+    "oddevenarray",
+    "oddsort",
+    "even sort",
+    "arraysort",
+    "oddevensort"
   ],
   "author": "Kaushik appani",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaushikappani/oddoreven/issues"
+  },
+  "homepage": "https://github.com/kaushikappani/oddoreven#readme",
+  "dependencies": {
+    "mocha": "^8.1.3"
+  }
 }
