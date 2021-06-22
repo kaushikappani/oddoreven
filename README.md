@@ -3,11 +3,11 @@
 [![npm](https://img.shields.io/npm/v/oddoreven?logo=npm)](https://www.npmjs.com/package/oddoreven)
 [![npm](https://img.shields.io/npm/dm/oddoreven?logo=npm)](https://www.npmjs.com/package/oddoreven)
 ### Install with npm:
-```
+```console
 $ npm install oddoreven
 ```
 ### Usage:
-```
+```js
 const oddeven = require('oddoreven');
 //isodd() and iseven() functions take integer as input and returns boolean
 
@@ -15,7 +15,7 @@ oddeven.iseven(3)  //returns false
 
 oddeven.isodd(3)   //returns true
 ```
-```
+```js
 //pickodd()  and pickeven() functions takes array as input and returns array
 
 oddeven.pickodd([1,2,3,4,5,6,7,8,9])    // returns [1,3,5,7,9]
